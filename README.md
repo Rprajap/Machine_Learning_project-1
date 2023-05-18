@@ -7,3 +7,19 @@ This is my First Machine learning Project`
 2. [Heroku Acount](https://www.heroku.com/)
 3. [VS code IDE](https://code.visualstudio.com/)
 4. [GIT cli](https://git-scm.com/downloads)
+
+Creating a conda vertual inviroment
+
+'''
+conda create -p venv python==3.7 -y
+'''
+
+'''
+Conda activate venv/
+'''
+
+'''
+pip install -r requirements.txt
+'''
+
+
