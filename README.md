@@ -7,6 +7,7 @@ This is my First Machine learning Project`
 2. [Heroku Acount](https://www.heroku.com/)
 3. [VS code IDE](https://code.visualstudio.com/)
 4. [GIT cli](https://git-scm.com/downloads)
+5.[git documentatiuon](https://git-scm.com/doc)
 
 Creating a conda vertual inviroment
 
@@ -63,9 +64,9 @@ git remote -v
 ```
 
 To setup CI/CD pipeline in heroku we need 3 information
-1. HEROKU_EMAIL = anishyadav7045075175@gmail.com
-2. HEROKU_API_KEY = <>
-3. HEROKU_APP_NAME = ml-regression-app
+1. Render_EMAIL = ramdasprajpati460@gmail.com
+2. Render_API_KEY =rnd_wolbG2LCui1K3TFkoXjJ4Zoo9DXF
+3. Render_APP_NAME = ml-regression-app 
 
 BUILD DOCKER IMAGE
 ```
