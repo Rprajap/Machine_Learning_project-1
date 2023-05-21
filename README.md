@@ -61,7 +61,7 @@ git push origin main
 To check remote url 
 ```
 git remote -v
-```
+```git add .
 
 To setup CI/CD pipeline in heroku we need 3 information
 1. Render_EMAIL = ramdasprajpati460@gmail.com
