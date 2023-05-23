@@ -74,7 +74,6 @@ docker build -t <image_name>:<tagname> .
 ```
 > Note: Image name for docker must be lowercase
 
-
 To list docker image
 ```
 docker images
